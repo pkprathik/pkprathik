@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkprathik&label=Profile%20views&color=0e75b6&style=flat" alt="pkprathik" /> </p>
 
-- 🌱 I’m currently learning **machine learning using python**
+- 🌱 I’m currently learning **android application development using java**
 
 - 📫 How to reach me **pckotian40@gmail.com**
 
